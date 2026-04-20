@@ -1,0 +1,9 @@
+C:\Users\Elias\source\repos\Racract\Racract\bin\Debug\Racract.exe
+C:\Users\Elias\source\repos\Racract\Racract\bin\Debug\Racract.pdb
+C:\Users\Elias\source\repos\Racract\Racract\obj\Debug\Racract.csproj.AssemblyReference.cache
+C:\Users\Elias\source\repos\Racract\Racract\obj\Debug\Racract.Form1.resources
+C:\Users\Elias\source\repos\Racract\Racract\obj\Debug\Racract.Properties.Resources.resources
+C:\Users\Elias\source\repos\Racract\Racract\obj\Debug\Racract.csproj.GenerateResource.cache
+C:\Users\Elias\source\repos\Racract\Racract\obj\Debug\Racract.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\Racract\Racract\obj\Debug\Racract.exe
+C:\Users\Elias\source\repos\Racract\Racract\obj\Debug\Racract.pdb
